@@ -1,7 +1,7 @@
 name: Pixelfucker
 favicon: null
-layout_spectrum: 0.9096216335892677
-typography_spectrum: 0.25542521430179477
+layout_spectrum: 0
+typography_spectrum: 0.33871
 title: Fronted based posts
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.4860967576969415
-  lightness: 0.2838671535719186
-  saturation: 0.0956596564501524
-  rhythmicContrast: 0.025889172684401274
+  brandStrength: 0
+  lightness: 0.625
+  saturation: 0
+  rhythmicContrast: 0.5
 purpose: []
