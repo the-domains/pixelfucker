@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[Fronted based posts]]></title>
         <description><![CDATA[Fronted based posts]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/pixelfucker/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Dec 2015 12:32:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 10 Dec 2015 12:40:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/pixelfucker/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Why I'm Excited About Native CSS Variables]]></title>
+            <description><![CDATA[<article><h1>Why I'm Excited About Native CSS Variables</h1><p>A few weeks ago CSS variables-more accurately known as CSS Custom Properties -shipped in Chrome Canary behind the Experimental Web Platform Features flag. When Chrome engineer Addy Osmani first tweeted about the release, he was met with a surprising amount of negativity, hostility, and skepticism.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5ba76341f6240082a20f55e3862c6c5344d161b8.png"></article>]]></description>
+            <link>http://philipwalton.com/articles/why-im-excited-about-native-css-variables/</link>
+            <guid isPermaLink="false">26e6b2b6-704c-4feb-a5a7-343b43593273</guid>
+            <pubDate>Thu, 10 Dec 2015 12:40:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Rendering SVG Paths in WebGL | CSS-Tricks]]></title>
-            <description><![CDATA[<article><h1>Rendering SVG Paths in WebGL | CSS-Tricks</h1><p>The following is a guest post by Matt DesLauriers. Matt combined a bunch of techniques and open source modules to build an incredible demo where simple rec</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/443b4652680250be3b71007cc1fbdf60bc7cbf89.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Rendering SVG Paths in WebGL | CSS-Tricks</h1><p>The following is a guest post by Matt DesLauriers. Matt combined a bunch of techniques and open source modules to build an incredible demo where simple rec</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba0f637b1787bc5d5df0abb326c92155dbb5e25b.jpg"></article>]]></description>
             <link>https://css-tricks.com/rendering-svg-paths-in-webgl/</link>
             <guid isPermaLink="false">0696cae9-b8e9-4c10-9ffc-11bb3e5bdd3c</guid>
             <pubDate>Thu, 10 Dec 2015 12:32:14 GMT</pubDate>
