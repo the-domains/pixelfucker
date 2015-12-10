@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Fronted based posts]]></title>
+        <description><![CDATA[Fronted based posts]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 10 Dec 2015 12:32:14 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Rendering SVG Paths in WebGL | CSS-Tricks]]></title>
+            <description><![CDATA[<article><h1>Rendering SVG Paths in WebGL | CSS-Tricks</h1><p>The following is a guest post by Matt DesLauriers. Matt combined a bunch of techniques and open source modules to build an incredible demo where simple rec</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/443b4652680250be3b71007cc1fbdf60bc7cbf89.jpg"></article>]]></description>
+            <link>https://css-tricks.com/rendering-svg-paths-in-webgl/</link>
+            <guid isPermaLink="false">0696cae9-b8e9-4c10-9ffc-11bb3e5bdd3c</guid>
+            <pubDate>Thu, 10 Dec 2015 12:32:14 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
