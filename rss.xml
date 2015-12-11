@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Fronted based posts]]></title>
-        <description><![CDATA[Fronted based posts]]></description>
+        <title><![CDATA[Pixelfucker - fronted based posts from @huaba]]></title>
+        <description><![CDATA[Pixelfucker - fronted based posts from @huaba]]></description>
         <link>https://thegrid.ai/pixelfucker/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Dec 2015 11:43:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Dec 2015 11:46:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pixelfucker/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Sass Guidelines]]></title>
+            <description><![CDATA[<article><h1>Sass Guidelines</h1><p>My name is Hugo Giraudel, I am a 23 year-old French front-end developer, based in Berlin (Germany) since 2015, currently working at Edenspiekermann. I have been writing Sass for several years now and am the author of many Sass-related projects such as SassDoc, SitePoint Sass Reference and Sass-Compatibility.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2585ea1a82eaf0ebeb56bb227a6b221ab3219a18.png"></article>]]></description>
+            <link>http://sass-guidelin.es/</link>
+            <guid isPermaLink="false">ed1e5bf1-bb84-4f35-80bc-b98c756f2e34</guid>
+            <pubDate>Fri, 11 Dec 2015 11:46:24 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[A Complete Guide to Flexbox | CSS-Tricks]]></title>
-            <description><![CDATA[<article><h1>A Complete Guide to Flexbox | CSS-Tricks</h1><p>The Flexbox Layout (Flexible Box) module (currently a W3C Last Call Working Draft) aims at providing a more efficient way to lay out, align and distribute space among items in a container, even when their size is unknown and/or dynamic (thus the word "flex").</p><img src="https://cdn.css-tricks.com/wp-content/uploads/2011/08/flexbox.png"></article>]]></description>
+            <description><![CDATA[<article><h1>A Complete Guide to Flexbox | CSS-Tricks</h1><p>The Flexbox Layout (Flexible Box) module (currently a W3C Last Call Working Draft) aims at providing a more efficient way to lay out, align and distribute space among items in a container, even when their size is unknown and/or dynamic (thus the word "flex").</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/150504e98ae6f2e3d482cc5855f7185243b41ca4.png"></article>]]></description>
             <link>https://css-tricks.com/snippets/css/a-guide-to-flexbox/</link>
             <guid isPermaLink="false">70bd0f5a-2130-4faa-b16d-e1c9cc5c7b86</guid>
             <pubDate>Fri, 11 Dec 2015 11:42:23 GMT</pubDate>
