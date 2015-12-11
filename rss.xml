@@ -4,11 +4,18 @@
         <description><![CDATA[Pixelfucker - fronted based posts from @huaba]]></description>
         <link>https://thegrid.ai/pixelfucker/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Dec 2015 11:47:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Dec 2015 11:53:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pixelfucker/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Atomic Design in one GIF | Brad Frost]]></title>
+            <description><![CDATA[<article><h1>Atomic Design in one GIF | Brad Frost</h1><p>I'm Brad Frost, a web designer, speaker, consultant, musician, and artist located in beautiful Pittsburgh, PA. I'm constantly tweeting, writing and speaking about the web and other topics. I've also helped create some tools and resources for web designers, including This Is Responsive, Pattern Lab, Styleguides.io, WTF Mobile Web, and Mobile Web Best Practices.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a53a7ab8-88b6-4c3a-8756-b6908deef29d.gif"></article>]]></description>
+            <link>http://bradfrost.com/blog/post/atomic-design-in-one-gif/</link>
+            <guid isPermaLink="false">d4de1650-b3f1-4c59-ba51-696872bb68ed</guid>
+            <pubDate>Fri, 11 Dec 2015 11:52:47 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[An introduction to hardware acceleration]]></title>
-            <description><![CDATA[<article><h1>An introduction to hardware acceleration</h1><p>Hardware acceleration is the process of delegating a task usually performed by the CPU (Central Processor Unit) to the GPU (Graphical Processor Unit) in order to speed up performance, hence the name hardware acceleration. When applied to CSS, it is useful to know how a browser works in order to understand what is going on and what we can do.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4e229fcee64c038d204c411b68c12a0f9200930a.png"></article>]]></description>
+            <description><![CDATA[<article><h1>An introduction to hardware acceleration</h1><p>Hardware acceleration is the process of delegating a task usually performed by the CPU (Central Processor Unit) to the GPU (Graphical Processor Unit) in order to speed up performance, hence the name hardware acceleration. When applied to CSS, it is useful to know how a browser works in order to understand what is going on and what we can do.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8c92950baefbcdd19f5310fed6c0f68722d4e3a8.png"></article>]]></description>
             <link>http://dev.edenspiekermann.com/2015/09/03/hardware-acceleration-introduction/</link>
             <guid isPermaLink="false">32bddea8-7bd4-41fa-b0f8-10e6d27a5914</guid>
             <pubDate>Fri, 11 Dec 2015 11:47:19 GMT</pubDate>
