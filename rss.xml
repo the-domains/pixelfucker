@@ -4,11 +4,18 @@
         <description><![CDATA[Pixelfucker - fronted based posts from @huaba]]></description>
         <link>https://thegrid.ai/pixelfucker/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Dec 2015 11:46:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Dec 2015 11:47:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pixelfucker/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[An introduction to hardware acceleration]]></title>
+            <description><![CDATA[<article><h1>An introduction to hardware acceleration</h1><p>Hardware acceleration is the process of delegating a task usually performed by the CPU (Central Processor Unit) to the GPU (Graphical Processor Unit) in order to speed up performance, hence the name hardware acceleration. When applied to CSS, it is useful to know how a browser works in order to understand what is going on and what we can do.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4e229fcee64c038d204c411b68c12a0f9200930a.png"></article>]]></description>
+            <link>http://dev.edenspiekermann.com/2015/09/03/hardware-acceleration-introduction/</link>
+            <guid isPermaLink="false">32bddea8-7bd4-41fa-b0f8-10e6d27a5914</guid>
+            <pubDate>Fri, 11 Dec 2015 11:47:19 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Sass Guidelines]]></title>
-            <description><![CDATA[<article><h1>Sass Guidelines</h1><p>My name is Hugo Giraudel, I am a 23 year-old French front-end developer, based in Berlin (Germany) since 2015, currently working at Edenspiekermann. I have been writing Sass for several years now and am the author of many Sass-related projects such as SassDoc, SitePoint Sass Reference and Sass-Compatibility.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2585ea1a82eaf0ebeb56bb227a6b221ab3219a18.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Sass Guidelines</h1><p>My name is Hugo Giraudel, I am a 23 year-old French front-end developer, based in Berlin (Germany) since 2015, currently working at Edenspiekermann. I have been writing Sass for several years now and am the author of many Sass-related projects such as SassDoc, SitePoint Sass Reference and Sass-Compatibility.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fd6c31691a19b2158af651952f78f7994564ceee.png"></article>]]></description>
             <link>http://sass-guidelin.es/</link>
             <guid isPermaLink="false">ed1e5bf1-bb84-4f35-80bc-b98c756f2e34</guid>
             <pubDate>Fri, 11 Dec 2015 11:46:24 GMT</pubDate>
