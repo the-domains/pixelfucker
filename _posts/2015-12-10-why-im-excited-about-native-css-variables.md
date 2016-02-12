@@ -17,8 +17,8 @@ keywords:
   - dom
   - styled
 description: 'A few weeks ago CSS variables-more accurately known as CSS Custom Properties -shipped in Chrome Canary behind the Experimental Web Platform Features flag. When Chrome engineer Addy Osmani first tweeted about the release, he was met with a surprising amount of negativity, hostility, and skepticism.'
-datePublished: '2016-02-12T08:25:23.437Z'
-dateModified: '2015-12-11T11:39:42.111Z'
+datePublished: '2016-02-12T08:29:41.241Z'
+dateModified: '2016-02-12T08:29:38.140Z'
 author: []
 related: []
 app_links: []
